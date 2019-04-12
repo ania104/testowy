@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1555080635900.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1671613319",
+    "id" : "C67979EA",
+    "lastKnownWriteTime" : 1555080664,
+    "last_content_update" : 1555080664201,
+    "path" : "A:/Matematyka/Gitowe/testowy/dodawanie.R",
+    "project_path" : "dodawanie.R",
+    "properties" : {
+        "cursorPosition" : "6,1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
